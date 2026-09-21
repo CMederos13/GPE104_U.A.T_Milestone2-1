@@ -6,7 +6,7 @@
 
 //Unity Version:6000.6.0f1 
 
-//Repository:[https://github.com/CMederos13/GPE104_U.A.T_Milestone2-1]([https://github.com/CMederos13/GPE104_U.A.T_Milestone2-1])]
+//Repository: [https://github.com/CMederos13/GPE104_U.A.T_Milestone2-1](https://github.com/CMederos13/GPE104_U.A.T_Milestone2-1)
 
 //Youtube: [] (Will be added soon!) 
 
